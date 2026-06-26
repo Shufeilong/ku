@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# const $ = new Env("wps签到任务")
 """
 @File    :   wps签到任务
 @Time    :   2026/01/21
